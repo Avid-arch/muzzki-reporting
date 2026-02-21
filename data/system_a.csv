@@ -1,1 +1,6 @@
-
+id,name,email,amount
+1,John Doe,john@email.com,120
+2,Jane Smith,jane@email.com,200
+3,Bob Lee,,150
+4,Anna Kim,anna@email.com,120
+4,Anna Kim,anna@email.com,120
