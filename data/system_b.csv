@@ -1,1 +1,5 @@
-
+id,name,email,amount
+1,John Doe,john@email.com,120
+2,Jane Smith,jane@email.com,250
+3,Bob Lee,bob@email.com,150
+5,Chris Ray,chris@email.com,300
